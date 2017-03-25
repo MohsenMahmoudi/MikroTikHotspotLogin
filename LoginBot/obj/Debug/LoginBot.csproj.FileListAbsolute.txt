@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\LoginBot\LoginBot\bin\Debug\LoginBot.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\LoginBot\LoginBot\bin\Debug\LoginBot.exe
+c:\users\administrator\documents\visual studio 2013\Projects\LoginBot\LoginBot\bin\Debug\LoginBot.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\LoginBot\LoginBot\obj\Debug\LoginBot.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\LoginBot\LoginBot\obj\Debug\LoginBot.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\LoginBot\LoginBot\obj\Debug\LoginBot.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\LoginBot\LoginBot\obj\Debug\LoginBot.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\LoginBot\LoginBot\obj\Debug\LoginBot.exe
+c:\users\administrator\documents\visual studio 2013\Projects\LoginBot\LoginBot\obj\Debug\LoginBot.pdb
